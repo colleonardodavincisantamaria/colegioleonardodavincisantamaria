@@ -21,6 +21,18 @@ const circularesParent = [
   "CIRCULAR # 13.2  CRONOGRAMA EVALUACIONES GENERALES PRIMER PERIODO.pdf",
   "CIRCULAR # 13.3  CRONOGRAMA EVALUACIONES GENERALES PRIMER PERIODO.pdf",
   "CIRCULAR # 14 EVALUACIÓN INTERNACIONAL NIVEL INGLES B2.pdf",
+  "CIRCULAR # 15 JORNADA PEDAGÓGICA 04 DE MAYO.pdf",
+  "CIRCULAR # 16 DIA DE LOS NIÑOS.pdf",
+  "CIRCULAR # 16 REPROGRAMACIÓN DE APLICACIÓN EVALUACIONES.pdf",
+  "CIRCULAR # 17  SIMULACRO #2 IM-PROVE.pdf",
+  "CIRCULAR # 18 Programación de actividades institucionales – 13, 14 y 15 de mayo.pdf",
+  "CIRCULAR # 18.1  Programación de actividades institucionales preescolar.pdf",
+  "CIRCULAR # 19 clase  natación Preescolar.pdf",
+  "CIRCULAR # 19 clase educacion fisica y natación.pdf",
+  "CIRCULAR # 20 SALIDA Y ENTREGA DE BOLETINES.pdf",
+  "CIRCULAR # 21 clase de danzas -preescolar.pdf",
+  "CIRCULAR # 21 clase de danzas.pdf",
+  "CIRCULAR # 22 Pagina web.pdf",
 ].filter((f) => !f.includes("copia"));
 
 const circularesTeacher = [
