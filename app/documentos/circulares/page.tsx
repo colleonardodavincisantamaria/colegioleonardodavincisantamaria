@@ -35,7 +35,7 @@ const circularesParent = [
 ].filter((f) => !f.includes("copia"));
 
 const circularesTeacher = [
-  "CIRCULAR INFORMATIVA #1 ENTREGA DE HORARIOS.pdf",
+  "CIRCULAR INFORMATIVA No.1 ENTREGA DE HORARIOS.pdf",
   "recepcion de documentos entregados.pdf",
   "recepcion de documentos.pdf",
 ];
